@@ -30,9 +30,18 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,mysql,git,github&theme=dark" alt="Tecnologías"/>
+#### 💻 Backend & Lenguajes
+<img src="https://skillicons.dev/icons?i=php,laravel,py,js,ts&theme=dark" alt="Backend & Lenguajes"/>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-8B5CF6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0D0B14)
+<br/><br/>
+
+#### 🎨 Frontend & Diseño
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="Frontend & Diseño"/>
+
+<br/><br/>
+
+#### 🗄️ Bases de Datos & Herramientas
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,postman&theme=dark" alt="Bases de Datos & Herramientas"/>
 
 </div>
 
