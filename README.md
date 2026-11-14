@@ -1,26 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=210&section=header&text=Yoel%20Solórzano&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Systems%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Software%20Developer&descFontSize=17&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+  <h1>Hola, soy Yoel Solórzano 👋</h1>
+  <h3>Systems Engineering Student & Full Stack Software Developer</h3>
 
-  <!-- Profile Photo with Purple Ring -->
-  <br/>
-  <a href="https://github.com/yoelsosan">
-    <img src="https://raw.githubusercontent.com/yoelsosan/yoelsosan/main/assets/profile_purple.png" width="155" height="155" alt="Yoel Solórzano" />
-  </a>
-  <br/>
-
-  <!-- Animated Typing Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student+%F0%9F%8E%93;Full+Stack+%26+Software+Developer+%F0%9F%92%BB;Passionate+about+Clean+Architecture+%26+Databases+%F0%9F%9B%A0%EF%B8%8F;Building+modern+web+solutions+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    📍 <b>Trujillo, Perú</b> &nbsp;•&nbsp; 💼 <b>Open to Opportunities & Freelance</b> &nbsp;•&nbsp; 🌐 <b>English & Spanish</b>
+  <p>
+    📍 <b>Trujillo, Perú</b> &nbsp;•&nbsp; 🚀 <b>Open to Opportunities & Freelance</b> &nbsp;•&nbsp; 🌐 <b>English & Spanish</b>
   </p>
 
-  <!-- Social & Contact Badges -->
-  <p align="center">
+  <p>
     <a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -36,10 +23,10 @@
 
 ### 👨‍💻 About Me / Sobre Mí
 
-- 🎓 **Systems Engineering Student** at UNT (*Universidad Nacional de Trujillo*), focused on software engineering, web development, and database architecture.
-- 💻 Experienced in designing and implementing full-stack applications with **Laravel, PHP, Python, and JavaScript/TypeScript**.
-- 🗄️ Strong database foundation: **MySQL, PostgreSQL, and Microsoft SQL Server**, focusing on query optimization, modeling, and data integrity.
-- 🚀 Proactive problem solver, always learning new technologies, architectures, and software design patterns.
+- 🎓 **Estudiante de Ingeniería de Sistemas** en la Universidad Nacional de Trujillo (UNT), apasionado por el desarrollo de software y la arquitectura web.
+- 💻 Experiencia desarrollando soluciones **Full Stack** con **Laravel, PHP, Python y JavaScript/TypeScript**.
+- 🗄️ Sólida base en diseño y optimización de bases de datos relacionales: **MySQL, PostgreSQL y Microsoft SQL Server**.
+- 🚀 Enfocado en escribir código limpio, escalable y resolver problemas de negocio reales mediante tecnología.
 
 ---
 
@@ -51,53 +38,53 @@
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
+        <br><b>PHP</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
+        <br><b>Laravel</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-        <br>Python
+        <br><b>Python</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
+        <br><b>JavaScript</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
+        <br><b>TypeScript</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
+        <br><b>HTML5</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
+        <br><b>CSS3</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
+        <br><b>Tailwind</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
+        <br><b>Bootstrap</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
+        <br><b>MySQL</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
+        <br><b>PostgreSQL</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
+        <br><b>Git</b>
       </td>
     </tr>
   </table>
@@ -106,35 +93,35 @@
 
 ---
 
-### 📂 Featured Projects / Proyectos Destacados
+### 📂 Proyectos Destacados / Featured Projects
 
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
-      <th width="45%">Description</th>
-      <th width="20%">Tech Stack</th>
+      <th width="35%">Proyecto</th>
+      <th width="45%">Descripción</th>
+      <th width="20%">Tecnologías</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b><a href="https://github.com/yoelsosan/SIGEC-Backend">🏢 SIGEC Suite</a></b><br/><sub>(Frontend & Backend)</sub></td>
-      <td>Sistema integral de gestión empresarial con arquitectura desacoplada, autenticación robusta y control de módulos administrativos.</td>
+      <td>Sistema integral de gestión empresarial con arquitectura desacoplada, control de módulos administrativos y API REST.</td>
       <td><code>Laravel</code> <code>MySQL</code> <code>REST API</code></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/yoelsosan/bingoflow">🎯 BingoFlow</a></b></td>
-      <td>Plataforma interactiva para dinámica de juegos y sorteos en tiempo real, con diseño intuitivo y experiencia fluida.</td>
+      <td>Plataforma interactiva para dinámica de juegos y sorteos en tiempo real con experiencia fluida.</td>
       <td><code>JavaScript</code> <code>CSS3</code> <code>WebSockets</code></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/yoelsosan/cuatropuntouno-landing">🌐 CuatroPuntoUno Landing</a></b></td>
-      <td>Sitio web corporativo optimizado para conversión, velocidad y diseño responsive multiplataforma.</td>
+      <td>Sitio web corporativo optimizado para conversión, velocidad de carga y diseño responsive.</td>
       <td><code>HTML5</code> <code>TailwindCSS</code> <code>JavaScript</code></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/yoelsosan/CalebPrime-Backend">⚡ CalebPrime Suite</a></b></td>
-      <td>Solución de software modular diseñada para gestión de operaciones y automatización de procesos internos.</td>
+      <td>Solución de software modular diseñada para gestión de operaciones y automatización de procesos.</td>
       <td><code>Backend API</code> <code>Database</code> <code>MVC</code></td>
     </tr>
   </tbody>
@@ -142,17 +129,13 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoelsosan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=a855f7&text_color=c9d1d9" height="165" alt="Yoel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yoelsosan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=a855f7&text_color=c9d1d9" height="165" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelsosan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" height="165" alt="Top Languages" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoelsosan&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a855f7&currStreakNum=8b5cf6" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -160,8 +143,8 @@
 
   ### 📬 Let's Connect! / ¡Hablemos!
 
-  ¿Tienes un proyecto en mente o buscas un desarrollador comprometido para tu equipo?<br/>
-  <b>No dudes en contactarme:</b>
+  ¿Tienes un proyecto en mente o buscas un desarrollador para tu equipo?<br/>
+  <b>Escríbeme directamente:</b>
 
   <p>
     <a href="https://www.linkedin.com/in/yoel-sosan-b85100434/">
