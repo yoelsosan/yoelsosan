@@ -1,17 +1,21 @@
 <div align="center">
+  <img src="./assets/header.png" width="100%" alt="Banner Yoel Solórzano"/>
+</div>
 
-<a href="#"><img src="./assets/header.svg" alt="Yoel Solórzano" width="100%"/></a>
+<br/>
 
-<br/><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/Trujillo,_Perú-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0B14" alt="Ubicación"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Abierto_a_oportunidades-C4B5FD?style=for-the-badge&logo=githubsponsors&logoColor=0D0B14&labelColor=0D0B14" alt="Estado"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B14" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:yoelsosan@gmail.com"><img src="https://img.shields.io/badge/Email-C4B5FD?style=for-the-badge&logo=gmail&logoColor=0D0B14&labelColor=0D0B14" alt="Email"/></a>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/TRUJILLO,_PERÚ-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ABIERTO_A_OPORTUNIDADES-a78bfa?style=for-the-badge&logo=briefcase&logoColor=1e1b4b" alt="Estado"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yoelsosan@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-a78bfa?style=for-the-badge&logo=gmail&logoColor=1e1b4b" alt="Email"/>
+  </a>
 </div>
 
 ---
