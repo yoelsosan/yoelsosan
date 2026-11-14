@@ -1,96 +1,95 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Yoel Solórzano Banner" />
-</div>
 
-<br/>
+<img src="./assets/header.svg" alt="Yoel Solórzano" width="100%"/>
 
-### 👋 Hola, soy Yoel Solórzano
-**Systems Engineering Student | Aspiring Full Stack Developer**
+**Hola, soy Yoel 👋** &nbsp;|&nbsp; *Hi, I'm Yoel. Systems Engineering student and aspiring software developer.*
 
-🎓 **Estudiante de Ingeniería de Sistemas** en la Universidad Nacional de Trujillo (UNT).  
-💻 Apasionado por el **desarrollo web**, la ingeniería de software y el diseño de **bases de datos**.  
-🚀 Siempre aprendiendo nuevas tecnologías, patrones de diseño y creando soluciones prácticas.  
-🌎 **Trujillo, Perú** &nbsp;|&nbsp; 🌐 *English & Spanish*
-
-<p>
-  <a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yoel_Solórzano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:yoelsosan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yoelsosan@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-  #### Lenguajes y Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py&theme=dark" alt="Languages" />
-
-  <br/><br/>
-
-  #### Frameworks y Estilos
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs&theme=dark" alt="Frameworks" />
-
-  <br/><br/>
-
-  #### Bases de Datos y Herramientas
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman&theme=dark" alt="Databases & Tools" />
+![Ubicación](https://img.shields.io/badge/Trujillo,_Perú-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0B14)
+![Estado](https://img.shields.io/badge/Abierto_a_oportunidades-C4B5FD?style=for-the-badge&labelColor=0D0B14&logoColor=C4B5FD&logo=githubsponsors)
 
 </div>
 
 ---
 
-### 🚀 Proyectos Destacados
+## Sobre mí · About me
+
+- 🎓 Estudio Ingeniería de Sistemas.
+- 💻 Me interesa el desarrollo web, el software y las bases de datos.
+- 🚀 Aprendo construyendo: cada proyecto es una excusa para mejorar.
+- 🌎 Trujillo, Perú.
+
+> *I learn by building. Every project is a chance to get better.*
+
+---
+
+## Tecnologías · Tech stack
 
 <div align="center">
 
-| Proyecto | Descripción | Tecnologías | Estado |
-| :--- | :--- | :--- | :---: |
-| **[🏢 SIGEC Suite](https://github.com/yoelsosan/SIGEC-Backend)** | Sistema integral de gestión empresarial con arquitectura desacoplada (Frontend + Backend), autenticación por roles y API REST. | `Laravel` `MySQL` `REST API` | 🔨 En desarrollo |
-| **[🎯 BingoFlow](https://github.com/yoelsosan/bingoflow)** | Plataforma web interactiva para dinámicas y gestión de sorteos en tiempo real con diseño responsivo y UX fluida. | `JavaScript` `CSS3` `WebSockets` | 🚀 Funcional |
-| **[🌐 CuatroPuntoUno](https://github.com/yoelsosan/cuatropuntouno-landing)** | Landing page corporativa moderna optimizada para conversión, rendimiento de carga y compatibilidad móvil. | `HTML5` `TailwindCSS` `JS` | ✅ Publicado |
-| **[⚡ CalebPrime](https://github.com/yoelsosan/CalebPrime-Backend)** | Suite modular para gestión y automatización de procesos operativos internos. | `PHP` `MySQL` `MVC` | 🔨 Activo |
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,mysql,git,github&theme=dark" alt="Tecnologías"/>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-8B5CF6?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0D0B14)
 
 </div>
 
 ---
 
-### 📊 Estadísticas de GitHub
+## Proyectos destacados · Featured projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoelsosan&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0&bg_color=0d1117" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelsosan&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d1117" height="165" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoelsosan&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a855f7&currStreakLabel=c084fc&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=94a3b8" width="480" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yoelsosan/SIGEC-Frontend">SIGEC Frontend</a></h3>
+      <p>Interfaz del sistema SIGEC. <br/><i>Client side of the SIGEC system.</i></p>
+      <img src="https://img.shields.io/badge/Frontend-8B5CF6?style=flat-square&labelColor=0D0B14"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yoelsosan/SIGEC-Backend">SIGEC Backend</a></h3>
+      <p>Lógica de negocio y base de datos de SIGEC. <br/><i>Business logic and data layer.</i></p>
+      <img src="https://img.shields.io/badge/Backend-8B5CF6?style=flat-square&labelColor=0D0B14"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yoelsosan/bingoflow">BingoFlow</a></h3>
+      <p>Aplicación de bingo. <br/><i>Bingo app.</i></p>
+      <img src="https://img.shields.io/badge/App-C4B5FD?style=flat-square&labelColor=0D0B14"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yoelsosan/cuatropuntouno-landing">Cuatropuntouno Landing</a></h3>
+      <p>Página de aterrizaje web. <br/><i>Marketing landing page.</i></p>
+      <img src="https://img.shields.io/badge/Web-C4B5FD?style=flat-square&labelColor=0D0B14"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## GitHub en números · Stats
+
 <div align="center">
 
-  ### 📬 ¡Hablemos! / Let's Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yoelsosan&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=E9E5F5&ring_color=8B5CF6" alt="Estadísticas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelsosan&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=E9E5F5" alt="Lenguajes"/>
 
-  ¿Tienes una propuesta laboral, proyecto freelance o te gustaría colaborar?<br/>
-  <b>Escríbeme con total confianza:</b>
+<br/><br/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:yoelsosan@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+<img src="https://streak-stats.demolab.com?user=yoelsosan&hide_border=true&background=0D0B14&ring=8B5CF6&fire=8B5CF6&currStreakNum=E9E5F5&sideNums=E9E5F5&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8A84A3" alt="Racha"/>
 
-  <sub>✨ <i>"Construyendo software que transforma problemas complejos en soluciones elegantes."</i></sub>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoelsosan&bg_color=0D0B14&color=C4B5FD&line=8B5CF6&point=EFEBFA&area=true&area_color=8B5CF6&hide_border=true" alt="Actividad" width="100%"/>
+
+</div>
+
+---
+
+## Contacto · Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B14)](https://www.linkedin.com/in/yoel-sosan-b85100434/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-C4B5FD?style=for-the-badge&logo=gmail&logoColor=0D0B14&labelColor=0D0B14)](mailto:yoelsosan@gmail.com)
 
 </div>
