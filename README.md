@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/ABIERTO_A_OPORTUNIDADES-a78bfa?style=for-the-badge&logo=briefcase&logoColor=1e1b4b" alt="Estado"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45aDIuNzl2OC4zN0g2LjQ2di04LjM3TTcuODYgNi41OGExLjYyIDEuNjIgMCAxIDAgMCAzLjI0IDEuNjIgMS42MiAwIDAgMCAwLTMuMjR6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:yoelsosan@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-a78bfa?style=for-the-badge&logo=gmail&logoColor=1e1b4b" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-a78bfa?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yNCA1LjQ1N3YxMy45MDljMCAuOTA0LS43MzIgMS42MzYtMS42MzYgMS42MzZoLTMuODE5VjExLjczTDEyIDE2LjY0bC02LjU0NS00LjkxdjkuMjczSDEuNjM2QTEuNjM2IDEuNjM2IDAgMCAxIDAgMTkuMzY2VjUuNDU3YzAtMi4wMjMgMi4zMDktMy4xNzggMy45MjctMS45NjRMNS40NTUgNC42NCAxMiA5LjU0OGw2LjU0NS00LjkxIDEuNTI4LTEuMTQ1QzIxLjY5IDIuMjggMjQgMy40MzQgMjQgNS40NTd6Ii8%2BPC9zdmc%2B" alt="Email"/>
   </a>
 </div>
 
@@ -111,8 +111,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B14" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45aDIuNzl2OC4zN0g2LjQ2di04LjM3TTcuODYgNi41OGExLjYyIDEuNjIgMCAxIDAgMCAzLjI0IDEuNjIgMS42MiAwIDAgMCAwLTMuMjR6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:yoelsosan@gmail.com"><img src="https://img.shields.io/badge/Email-C4B5FD?style=for-the-badge&logo=gmail&logoColor=0D0B14&labelColor=0D0B14" alt="Email"/></a>
+<a href="mailto:yoelsosan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-a78bfa?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yNCA1LjQ1N3YxMy45MDljMCAuOTA0LS43MzIgMS42MzYtMS42MzYgMS42MzZoLTMuODE5VjExLjczTDEyIDE2LjY0bC02LjU0NS00LjkxdjkuMjczSDEuNjM2QTEuNjM2IDEuNjM2IDAgMCAxIDAgMTkuMzY2VjUuNDU3YzAtMi4wMjMgMi4zMDktMy4xNzggMy45MjctMS45NjRMNS40NTUgNC42NCAxMiA5LjU0OGw2LjU0NS00LjkxIDEuNTI4LTEuMTQ1QzIxLjY5IDIuMjggMjQgMy40MzQgMjQgNS40NTd6Ii8%2BPC9zdmc%2B" alt="Email"/></a>
 
 </div>
