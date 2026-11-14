@@ -1,7 +1,14 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=220&section=header&text=Yoel%20Solórzano&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Software%20Developer&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=210&section=header&text=Yoel%20Solórzano&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Systems%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Software%20Developer&descFontSize=17&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+
+  <!-- Profile Photo with Purple Ring -->
+  <br/>
+  <a href="https://github.com/yoelsosan">
+    <img src="https://raw.githubusercontent.com/yoelsosan/yoelsosan/main/assets/profile_purple.png" width="155" height="155" alt="Yoel Solórzano" />
+  </a>
+  <br/>
 
   <!-- Animated Typing Tagline -->
   <a href="https://git.io/typing-svg">
