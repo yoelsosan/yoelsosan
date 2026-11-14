@@ -37,9 +37,40 @@
 
 ## Tecnologías · Tech stack
 
-<div align="center">
-  <img src="./assets/tech_stack.png" width="100%" alt="Tecnologías · Tech stack"/>
-</div>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" align="center">💻 Backend &amp; Lenguajes</th>
+      <th width="33%" align="center">🎨 Frontend &amp; Diseño</th>
+      <th width="33%" align="center">🗄️ Bases de Datos &amp; Herramientas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <br/>
+        <a href="#tecnologías--tech-stack"><img src="https://skillicons.dev/icons?i=php,laravel,py,js,ts&theme=dark" alt="Backend &amp; Lenguajes"/></a>
+        <br/><br/>
+        <sub><b>Stack:</b> PHP • Laravel • Python • JavaScript • TypeScript</sub>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <a href="#tecnologías--tech-stack"><img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="Frontend &amp; Diseño"/></a>
+        <br/><br/>
+        <sub><b>Diseño:</b> HTML5 • CSS3 • Tailwind CSS • Bootstrap</sub>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <a href="#tecnologías--tech-stack"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,postman&perline=4&theme=dark" alt="Bases de Datos &amp; Herramientas"/></a>
+        <br/><br/>
+        <sub><b>Herramientas:</b> MySQL • SQL Server • Git • GitHub • VS Code</sub>
+        <br/><br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
