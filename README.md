@@ -13,12 +13,16 @@
 
 ## Sobre mí · About me
 
-- 🎓 Estudio Ingeniería de Sistemas.
-- 💻 Me interesa el desarrollo web, el software y las bases de datos.
-- 🚀 Aprendo construyendo: cada proyecto es una excusa para mejorar.
-- 🌎 Trujillo, Perú.
+- 🎓 **Estudiante de Ingeniería de Sistemas** en la Universidad Nacional de Trujillo (UNT), con sólida formación en ingeniería de software, arquitectura web y metodologías de desarrollo.
+- 💻 **Desarrollo Full Stack:** Experiencia construyendo aplicaciones web modulares con **PHP, Laravel, Python y JavaScript**, priorizando arquitecturas desacopladas y APIs RESTful.
+- 🗄️ **Bases de datos relacionales:** Diseño, modelado y optimización de consultas en **MySQL y Microsoft SQL Server**, asegurando integridad, seguridad y rendimiento de datos.
+- ⚙️ **Buenas prácticas:** Comprometido con el código limpio, estructurado y mantenible, utilizando control de versiones con **Git y GitHub** como flujo de trabajo diario.
+- 🚀 **Aprendo construyendo:** Cada proyecto es una oportunidad para resolver problemas reales, adquirir nuevas habilidades y transformar ideas complejas en software funcional.
+- 🌎 **Ubicación:** Trujillo, Perú &nbsp;•&nbsp; *Abierto a oportunidades laborales remotas y colaboraciones.*
 
-> *I learn by building. Every project is a chance to get better.*
+<br/>
+
+> *"I build software with curiosity and discipline. From database architecture to responsive web applications, my focus is on delivering clean, scalable solutions that solve real-world problems."*
 
 ---
 
