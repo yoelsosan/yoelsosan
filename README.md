@@ -2,10 +2,15 @@
 
 <img src="./assets/header.svg" alt="Yoel Solórzano" width="100%"/>
 
-**Hola, soy Yoel 👋** &nbsp;|&nbsp; *Hi, I'm Yoel. Systems Engineering student and aspiring software developer.*
+<br/><br/>
 
 ![Ubicación](https://img.shields.io/badge/Trujillo,_Perú-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D0B14)
-![Estado](https://img.shields.io/badge/Abierto_a_oportunidades-C4B5FD?style=for-the-badge&labelColor=0D0B14&logoColor=C4B5FD&logo=githubsponsors)
+&nbsp;
+![Estado](https://img.shields.io/badge/Abierto_a_oportunidades-C4B5FD?style=for-the-badge&logo=githubsponsors&logoColor=0D0B14&labelColor=0D0B14)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0B14)](https://www.linkedin.com/in/yoel-sosan-b85100434/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-C4B5FD?style=for-the-badge&logo=gmail&logoColor=0D0B14&labelColor=0D0B14)](mailto:yoelsosan@gmail.com)
 
 </div>
 
