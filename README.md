@@ -38,20 +38,7 @@
 ## Tecnologías · Tech stack
 
 <div align="center">
-
-#### 💻 Backend & Lenguajes
-<a href="#tecnologías--tech-stack"><img src="https://skillicons.dev/icons?i=php,laravel,py,js,ts&theme=dark" alt="Backend & Lenguajes"/></a>
-
-<br/><br/>
-
-#### 🎨 Frontend & Diseño
-<a href="#tecnologías--tech-stack"><img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="Frontend & Diseño"/></a>
-
-<br/><br/>
-
-#### 🗄️ Bases de Datos & Herramientas
-<a href="#tecnologías--tech-stack"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,postman&theme=dark" alt="Bases de Datos & Herramientas"/></a>
-
+  <img src="./assets/tech_stack.png" width="100%" alt="Tecnologías · Tech stack"/>
 </div>
 
 ---
