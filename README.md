@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Yoel Solórzano - Full Stack Developer | Systems Engineering"/>
+  <img src="https://raw.githubusercontent.com/yoelsosan/yoelsosan/main/assets/header.png" width="100%" alt="Yoel Solórzano - Full Stack Developer | Systems Engineering"/>
 </div>
 
 <br/>
