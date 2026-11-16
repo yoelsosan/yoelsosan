@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yoelsosan/yoelsosan/main/assets/header.svg" width="100%" alt="Yoel Solórzano - Full Stack Developer | Systems Engineering"/>
+  <a href="#-"><img src="https://raw.githubusercontent.com/yoelsosan/yoelsosan/main/assets/header.svg" width="100%" alt="Yoel Solórzano - Full Stack Developer | Systems Engineering"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TRUJILLO,_PERÚ-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
+  <a href="#-"><img src="https://img.shields.io/badge/TRUJILLO,_PERÚ-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/ABIERTO_A_OPORTUNIDADES-a78bfa?style=for-the-badge" alt="Estado"/>
+  <a href="#-"><img src="https://img.shields.io/badge/ABIERTO_A_OPORTUNIDADES-a78bfa?style=for-the-badge" alt="Estado"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/yoel-sosan-b85100434/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45aDIuNzl2OC4zN0g2LjQ2di04LjM3TTcuODYgNi41OGExLjYyIDEuNjIgMCAxIDAgMCAzLjI0IDEuNjIgMS42MiAwIDAgMCAwLTMuMjR6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/>
