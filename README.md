@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Yoel Solórzano - Full Stack Developer | Systems Engineering"/>
+  <img src="https://raw.githubusercontent.com/yoelsosan/yoelsosan/main/assets/header.png" width="100%" alt="Yoel Solórzano - Full Stack Developer | Systems Engineering"/>
 </div>
 
 <br/>
@@ -89,9 +89,9 @@
 ## GitHub en números · Stats
 
 <div align="center">
-<a href="#github-en-números--stats"><img height="170" src="https://github-readme-stats.vercel.app/api?username=yoelsosan&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=E9E5F5&ring_color=8B5CF6" alt="Estadísticas"/></a>
+<a href="#github-en-números--stats"><img height="170" src="https://github-stats-extended.vercel.app/api?username=yoelsosan&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=E9E5F5&ring_color=8B5CF6" alt="Estadísticas"/></a>
 &nbsp;
-<a href="#github-en-números--stats"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoelsosan&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=E9E5F5" alt="Lenguajes"/></a>
+<a href="#github-en-números--stats"><img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yoelsosan&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=E9E5F5" alt="Lenguajes"/></a>
 
 <br/><br/>
 
